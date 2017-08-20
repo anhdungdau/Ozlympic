@@ -1,4 +1,5 @@
 public class Menu {
+	
 		public static void mainMenu() {
 			System.out.println("             Ozlympic Game			");
 			System.out.println("===========================================");

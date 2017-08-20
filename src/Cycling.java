@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Cycling extends Game {
+public class Cycling extends Sport {
 
 	public Cycling(String gameID, Referee referee, ArrayList<Result> Result) {
 		super(gameID, referee, Result);
